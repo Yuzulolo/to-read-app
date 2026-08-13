@@ -1,0 +1,6 @@
+# Supabase local state — not for version control
+.branches
+.temp
+
+# Local Supabase env
+.env
